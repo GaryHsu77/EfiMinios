@@ -1,0 +1,4 @@
+LOCATIOPN = $(APP_FOLDER)\Calculator
+
+FILE = calculator.c
+FILE = calculatortask.c

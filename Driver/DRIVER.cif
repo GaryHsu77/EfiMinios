@@ -1,0 +1,8 @@
+LOCATIOPN = $(DRIVER_FOLDER)
+
+FILE = driver_efi.c
+FILE = driver_keyboard.c
+FILE = driver_mouse.c
+FILE = driver_rtc.c  
+FILE = driver_timer.c
+FILE = driver_vga.c

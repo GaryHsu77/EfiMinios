@@ -1,0 +1,20 @@
+<component>
+	name = "VC6 Tools"
+	category = ModulePart
+	LocalRoot = "Aptio4Tools\VC6\"
+	RefName = "VC6 Tools"
+[files]
+"\vc6.sdl"	
+"\vc6.mak"
+"\c1.dll"
+"\c1xx.dll"
+"\c2.dll"
+"\cl.exe"
+"\lib.exe"
+"\link.exe"
+"\ML.ERR"
+"\ML.EXE"
+"\MSPDB60.DLL"
+"\msvcp60.dll"
+"\nmake.exe"	
+<endComponent>

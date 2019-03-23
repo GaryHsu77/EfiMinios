@@ -1,0 +1,5 @@
+LOCATIOPN = $(UI_FOLDER)
+
+FILE = ui_board.c
+FILE = ui_caption.c
+FILE = ui_window.c

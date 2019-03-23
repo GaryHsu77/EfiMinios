@@ -1,0 +1,7 @@
+LOCATIOPN = $(MIDDLEWARE_FOLDER)
+
+FILE = mid_font.c
+FILE = mid_font1.c
+FILE = mid_gfxclut.c
+FILE = mid_osd.c
+FILE = mid_console.c

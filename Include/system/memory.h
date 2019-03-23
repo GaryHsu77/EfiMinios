@@ -1,0 +1,15 @@
+#ifndef MEMORY_H
+#define MEMORY_H
+
+#define CHANGE_MODE 0x00010000
+#define OS_KERNEL   0x00010400
+#define OS_KERNEL2  0x00100000
+
+#define CGA_VIDEO_MEMORY 0x000b8000
+#define VGA_VIDEO_MEMORY 0x000a0000 //320x200x8bit...64000 bytes
+#define VGA_VIDEO_MEMORY_LENGTH 0x00010000
+
+#define SYSTEM_MEMORY_TOTAL 0x02000000 //total memory is 32mb
+#define SYSTEM_MEMORY_BASE  0x00200000 //start at 2mb
+
+#endif

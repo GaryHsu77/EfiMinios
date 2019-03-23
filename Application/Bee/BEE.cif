@@ -1,0 +1,7 @@
+LOCATIOPN = $(APP_FOLDER)\Bee
+
+FILE = bee.c
+FILE = beebees.c
+FILE = beebullet.c
+FILE = beefighter.c
+FILE = beetask.c

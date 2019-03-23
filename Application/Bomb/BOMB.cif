@@ -1,0 +1,4 @@
+LOCATIOPN = $(APP_FOLDER)\Bomb
+
+FILE = bomb.c
+FILE = bombtask.c

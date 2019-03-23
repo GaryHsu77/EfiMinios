@@ -1,0 +1,3 @@
+LOCATIOPN = $(APP_FOLDER)\Shell
+
+FILE = task_shell.c

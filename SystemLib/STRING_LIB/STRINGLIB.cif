@@ -1,0 +1,3 @@
+LOCATIOPN = $(SYSTEM_FOLDER)\STRING_LIB
+
+FILE = sys_string.c

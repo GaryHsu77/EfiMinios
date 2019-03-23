@@ -1,0 +1,9 @@
+$(LIBALL): 
+	cd $(SDK_INSTALL_DIR)\lib
+	$(MAKE) -f lib.mak all
+	cd $(BUILD_DIR)
+	$(LIB) /nologo $(LIBS) /OUT:$(LIBALL)
+CREATE_ENV_DIR: 
+!IF !EXIST($(BUILD_DIR))
+    @mkdir $(BUILD_DIR)
+!ENDIF

@@ -1,0 +1,9 @@
+RtcHandler:BeforeOsTaskSwitchHook
+TimerHandler:BeforeOsTaskSwitchHook
+
+VgaInit:RootTaskInitHook
+KeyboardInit:RootTaskInitHook
+MouseInit:RootTaskInitHook
+RtcInit:RootTaskInitHook
+TimerInit:RootTaskInitHook
+OsdInit:RootTaskInitHook

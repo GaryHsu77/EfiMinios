@@ -1,0 +1,5 @@
+LOCATIOPN = $(SYSTEM_FOLDER)
+
+FILE = sys_interrupt.c
+FILE = sys_gui.c
+ASMF = sys_intUtilx64.asm

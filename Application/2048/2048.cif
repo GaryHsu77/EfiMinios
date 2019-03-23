@@ -1,0 +1,15 @@
+LOCATIOPN = $(APP_FOLDER)\Desk
+
+FILE = desk.c
+FILE = deskactivewindow.c 
+FILE = deskbg.c 
+FILE = deskdevice.c 
+FILE = deskinactivewindow.c 
+FILE = desklib.c 
+FILE = deskmouse.c 
+FILE = desktable.c 
+FILE = desktask.c 
+FILE = desktime.c 
+FILE = deskwindow.c 
+FILE = deskwork.c 
+FILE = deskworkbar.c 

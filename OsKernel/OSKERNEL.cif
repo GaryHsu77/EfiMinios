@@ -1,0 +1,13 @@
+LOCATIOPN = $(OSCORE_FOLDER)
+
+FILE = os_core.c
+FILE = os_entry.c
+FILE = os_event.c
+FILE = os_mmio_lib.c
+FILE = os_roottask.c
+FILE = os_scheduler.c
+FILE = os_task.c
+FILE = os_TaskLib.c
+FILE = os_time.c
+FILE = os_sysLib.c
+ASMF = os_TaskLib_a.asm

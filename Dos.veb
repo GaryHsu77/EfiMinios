@@ -1,0 +1,38 @@
+VALUE = \Application\Desk
+ENTRY = DESK
+
+VALUE = \Driver
+ENTRY = DRIVER
+
+VALUE = \Middleware
+ENTRY = MIDDLEWARE
+
+VALUE = \OsKernel
+ENTRY = OSKERNEL
+
+VALUE = \SystemLib
+ENTRY = SYSLIB
+
+VALUE = \SystemLib\PCI_LIB
+ENTRY = PCILIB
+
+VALUE = \SystemLib\STRING_LIB
+ENTRY = STRINGLIB
+
+VALUE = \SystemLib\EFIShell_LIB
+ENTRY = EFISHELL
+
+VALUE = \UI
+ENTRY = UI
+
+VALUE = \Application\Bee
+ENTRY = BEE
+
+VALUE = \Application\Bomb
+ENTRY = BOMB
+
+VALUE = \Application\Calculator
+ENTRY = CALCULATOR
+
+VALUE = \Application\Shell
+ENTRY = SHELL

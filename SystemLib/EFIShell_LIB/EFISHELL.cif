@@ -1,0 +1,3 @@
+LOCATIOPN = $(SYSTEM_FOLDER)\EFISHELL_LIB
+
+FILE = efi_shellLib.c
